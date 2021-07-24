@@ -20,8 +20,6 @@ Het Open Formulieren export formaat bevat `Form.io`_ formulier definities, samen
 met bepaalde metadata. U kunt deze export bestanden importeren in uw eigen Open 
 Formulieren installatie.
 
-Zowel de objecttypen in deze repository (CC0), alsmede de Objecttypen API (EUPL) en de Objecten API (EUPL) zijn open source en daarmee vrij en gratis te gebruiken.
-
 De formulier export bestanden in deze repository (CC0) en de Open Formulieren
 software (EUPL) zijn open source en daarmee vrij en gratis te gebruiken.
 
