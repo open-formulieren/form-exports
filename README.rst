@@ -35,6 +35,7 @@ initiated and financed by a group of municipalities that deserve special
 mention:
 
 * Dimpact (cooperation of 40+ municipalities), specifically:
+
   * Municipality of Bodegraven-Reeuwijk
   * Municipality of Haarlemmermeer
   * Municipality of Horst aan de Maas
@@ -43,6 +44,7 @@ mention:
   * Municipality of Venray
   * Municipality of Vught
   * RID De Liemers (cooperation for the municipalities Duiven, Westervoort, Zevenaar en RSD De Liemers)
+
 * Municipality of Utrecht
 * Municipality of Den Haag
 * SED organisation (cooperation for the municipalities Stede Broec, Enkhuizen and Drechterland)

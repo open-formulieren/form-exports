@@ -38,6 +38,7 @@ maar het project is gestart en gefinancieerd door een groep van gemeenten die we
 hier willen noemen:
 
 * Dimpact (coöperatie van 40+ gemeenten), waarvan deze in het bijzonder:
+
   * Gemeente Bodegraven-Reeuwijk
   * Gemeente Haarlemmermeer
   * Gemeente Horst aan de Maas
@@ -46,6 +47,7 @@ hier willen noemen:
   * Gemeente Venray
   * Gemeente Vught
   * RID De Liemers (samenwerkingsverband voor gemeenten Duiven, Westervoort, Zevenaar en RSD De Liemers)
+
 * Gemeente Utrecht
 * Gemeente Den Haag
 * SED organisation (samenwerkingsverband voor gemeenten Stede Broec, Enkhuizen and Drechterland)
